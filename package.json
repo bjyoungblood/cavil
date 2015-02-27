@@ -1,6 +1,6 @@
 {
   "name": "cavil",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "I don't want to be human!",
   "main": "dist/Bot.js",
   "scripts": {
